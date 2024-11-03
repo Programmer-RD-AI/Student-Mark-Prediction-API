@@ -1,7 +1,7 @@
 import requests
 
 # URL of the Flask API
-url = "http://127.0.0.1:5000/"
+url = "https://student-mark-prediction-api-bmdv.vercel.app/"
 
 # Example student data
 data = [
