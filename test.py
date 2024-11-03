@@ -30,8 +30,8 @@ data = [
         "syllabus": "Edexcel",
         "subject": "1",
         "marks": {
-            "sem_1": "80",
-            "sem_2": "78",  # Actual second semester mark
+            "sem_1": "50",
+            "sem_2": "90",  # Actual second semester mark
             "sem_3": "82",  # Actual third semester mark
         },
     },
