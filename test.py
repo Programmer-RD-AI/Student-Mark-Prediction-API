@@ -1,7 +1,7 @@
 import requests
 
 # URL of the Flask API
-url = "https://student-mark-prediction-api-bmdv.vercel.app/"
+url = "https://student-mark-prediction-api-two.vercel.app/"
 
 # Example student data
 data = [
@@ -39,6 +39,6 @@ data = [
 
 # Send POST request
 response = requests.post(url, json=data)
-
+print(response)
 # Print the response from the API
 print(response.json())
